@@ -1,5 +1,8 @@
 # RoboAI LIBS Spectrum Simulator — Web UI
 
+[![CI](https://github.com/RoboAI-Green/roboai-libs-ui/actions/workflows/ci.yml/badge.svg)](https://github.com/RoboAI-Green/roboai-libs-ui/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 The web frontend for the RoboAI LIBS Spectrum Simulator: an interactive single-page
 app for simulating laser-induced breakdown spectroscopy (LIBS) spectra in the
 browser. It talks to the RoboAI LIBS REST API over HTTP and owns no physics of its
@@ -72,6 +75,11 @@ Tailwind CSS · Zod · Vitest · oxlint / oxfmt.
 ## Contributing
 
 Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Support
+
+For bugs, questions, or feature requests, please open an issue on the
+[GitHub repository](https://github.com/RoboAI-Green/roboai-libs-ui/issues).
 
 ## License
 
