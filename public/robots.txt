@@ -1,0 +1,9 @@
+# Only the homepage (/) should be indexed; app sub-routes (e.g. /documentation)
+# are disallowed. /assets and the favicon stay crawlable so Googlebot can render
+# the homepage it is allowed to index. ($ anchors the match to the exact root;
+# the longer Allow rules take precedence over Disallow: / on Google and Bing.)
+User-agent: *
+Allow: /$
+Allow: /assets/
+Allow: /favicon.png
+Disallow: /

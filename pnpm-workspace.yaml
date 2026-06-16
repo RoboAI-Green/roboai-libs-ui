@@ -1,0 +1,5 @@
+allowBuilds:
+  # Transitive deps with postinstall scripts we don't need built:
+  # es5-ext only prints a banner; msw isn't used directly.
+  es5-ext: false
+  msw: false
