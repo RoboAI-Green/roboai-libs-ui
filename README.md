@@ -93,6 +93,7 @@ For bugs, questions, or feature requests, please open an issue on the
 [GitHub repository](https://github.com/RoboAI-Green/roboai-libs-ui/issues).
 
 ## Citation
+
 Yilin Wang, Shuo Zhang, Toni Aaltonen, Pekka Suominen, Eetu Ojanen,
 An interactive online platform for the simulation and analysis of LIBS,
 SoftwareX,
