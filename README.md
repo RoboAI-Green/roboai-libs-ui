@@ -98,7 +98,7 @@ If you use this software in your research, please cite:
 
 > Y. Wang, S. Zhang, T. Aaltonen, P. Suominen, E. Ojanen.
 > An interactive online platform for the simulation and analysis of LIBS.
-> *SoftwareX* **36** (2026) 103030.
+> _SoftwareX_ **36** (2026) 103030.
 > https://doi.org/10.1016/j.softx.2026.103030
 
 ```bibtex
